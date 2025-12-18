@@ -1,6 +1,6 @@
 # Quick Start to C Programming    
 ---    
-[简体中文](./C语言极简速成.md) | [English](./C Language Quick Start.md)    
+[简体中文](./C语言极简速成.md) | [English](./C-Language-Quick-Start.md)    
 ---    
 This guide, titled **"C Language Quick Start,"** offers a beginner-friendly and metaphor-driven introduction to the core concepts of the C programming language. It is designed to demystify foundational programming principles by using vivid, everyday analogies, making it accessible for those new to coding or transitioning from other fields. The document focuses on **practical, essential knowledge** that forms the backbone of most C programs, especially in contexts like embedded systems development.
 
